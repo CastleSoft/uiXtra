@@ -1,0 +1,13 @@
+Testing.exe: 000000C0: 16:40:35 []:>--------------------------------------------------------------<
+Testing.exe: 000000C0: 16:40:35 [TUniServerModule]:Server First Init.
+Testing.exe: 000000C0: 16:40:35 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 000000C0: 16:40:35 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00001E5C: 16:40:41 [Requested Theme File not found:]:C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-classic.css
+Testing.exe: 00001E5C: 16:40:41 []:TUniThemeProps: File not found: C:\Program Files (x86)\FMSoft\Framework\unigui\uni\css\uni-xtheme-classic.css
+Testing.exe: 000000C0: 16:41:15 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 000000C0: 16:41:15 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 000000C0: 16:41:16 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 000000C0: 16:41:16 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 000000C0: 16:41:16 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 000000C0: 16:41:16 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 000000C0: 16:41:16 [TUniGUISessionManager]:Waiting for session manager thread...

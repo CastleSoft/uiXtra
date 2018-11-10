@@ -1,0 +1,142 @@
+{**********************************************************************}
+{                                                                      }
+{             Delphi REST Client Framework                             }
+{             Custom Bearer/Token Authenticator                        }
+{                                                                      }
+{ Copyright(c) 2016 Embarcadero Technologies, Inc.                     }
+{ Copyright(c) 2016 CastleSoft Pty Ltd.                                }
+{              All rights reserved                                     }
+{                                                                      }
+{**********************************************************************}
+{  Date         Who      Description                                   }
+{ -------------------------------------------------------------------- }
+{  15-Oct-2016  AJT      Initial Release of Bearer/Token Authenticator }
+{**********************************************************************}
+unit REST.Authenticator.Bearer;
+
+interface
+
+uses
+  System.Classes,
+  Data.Bind.ObjectScope, Data.Bind.Components,
+  REST.Types,
+  REST.Client,
+  REST.Consts,
+  REST.BindSource;
+
+type
+  TSubBearerAuthenticationBindSource = class;
+
+  [ComponentPlatformsAttribute(pidWin32 or pidWin64 or pidOSX32 or pidiOSSimulator or pidiOSDevice or pidiOSDevice64 or pidAndroid)]
+  TBearerAuthenticator = class(TCustomAuthenticator)
+  private
+    FToken: string;
+    FBindSource: TSubBearerAuthenticationBindSource;
+    procedure SetToken(const AValue: string);
+  protected
+    procedure DoAuthenticate(ARequest: TCustomRESTRequest); override;
+    function CreateBindSource: TBaseObjectBindSource; override;
+  public
+    constructor Create(const AToken: string); reintroduce; overload;
+  published
+    property Token: string read FToken write SetToken;
+    property BindSource: TSubBearerAuthenticationBindSource read FBindSource;
+  end;
+
+  TSubBearerAuthenticationBindSource = class
+    (TRESTAuthenticatorBindSource<TBearerAuthenticator>)
+  protected
+    function CreateAdapterT
+      : TRESTAuthenticatorAdapter<TBearerAuthenticator>; override;
+  end;
+
+  TBearerAuthenticatorAdapter = class(TRESTAuthenticatorAdapter<TBearerAuthenticator>)
+  protected
+    procedure AddFields; override;
+  end;
+
+procedure Register;
+
+implementation
+
+constructor TBearerAuthenticator.Create(const AToken: string);
+begin
+  Create(NIL);
+  FToken := AToken;
+end;
+
+procedure TBearerAuthenticator.SetToken(const AValue: string);
+begin
+  if (AValue <> FToken) then
+  begin
+    FToken := AValue;
+    PropertyValueChanged;
+  end;
+end;
+
+function TBearerAuthenticator.CreateBindSource: TBaseObjectBindSource;
+begin
+  FBindSource := TSubBearerAuthenticationBindSource.Create(Self);
+  FBindSource.Name := 'BindSource'; { Do not localize }
+  FBindSource.SetSubComponent(True);
+  FBindSource.Authenticator := Self;
+
+  result := FBindSource;
+end;
+
+procedure TBearerAuthenticator.DoAuthenticate(ARequest: TCustomRESTRequest);
+begin
+  inherited;
+
+  ARequest.Params.BeginUpdate;
+  try
+    ARequest.AddAuthParameter('Authorization', 'Bearer ' + FToken,
+      TRESTRequestParameterKind.pkHTTPHEADER,
+      [TRESTRequestParameterOption.poDoNotEncode]);
+  finally
+    ARequest.Params.EndUpdate;
+  end;
+end;
+
+{ TSubBearerAuthenticationBindSource }
+
+function TSubBearerAuthenticationBindSource.CreateAdapterT: TRESTAuthenticatorAdapter<TBearerAuthenticator>;
+begin
+  result := TBearerAuthenticatorAdapter.Create(Self);
+end;
+
+{ TBearAuthenticatorAdapter }
+
+procedure TBearerAuthenticatorAdapter.AddFields;
+
+const
+  sToken = 'Token';
+var
+  LGetMemberObject: IGetMemberObject;
+begin
+  CheckInactive;
+  ClearFields;
+  if Authenticator <> nil then
+  begin
+    LGetMemberObject := TBindSourceAdapterGetMemberObject.Create(Self);
+
+    CreateReadWriteField<string>(sToken, LGetMemberObject, TScopeMemberType.mtText,
+      function: string
+      begin
+        result := Authenticator.Token;
+      end,
+      procedure(AValue: string)
+      begin
+        Authenticator.Token := AValue;
+      end);
+
+  end;
+
+end;
+
+procedure Register;
+begin
+  RegisterComponents('REST Client', [TBearerAuthenticator]);
+end;
+
+end.

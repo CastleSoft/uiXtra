@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/10/18 00:42:26.000.761,=rtl.dcp</Transaction>
+    <Transaction>2016/10/18 00:42:59.000.846,=C:\Tmp\2016-10-18-BearerAuthenticator-DelphiREST\REST.Authenticator.Bearer.pas</Transaction>
+    <Transaction>2016/10/18 00:43:13.000.321,=bindcomp.dcp</Transaction>
+    <Transaction>2016/10/18 00:43:13.000.341,=RESTComponents.dcp</Transaction>
+    <Transaction>2016/10/18 00:43:13.000.287,=CustomIPTransport.dcp</Transaction>
+    <Transaction>2016/10/18 00:43:13.000.303,=bindengine.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

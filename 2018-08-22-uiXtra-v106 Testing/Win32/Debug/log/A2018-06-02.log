@@ -1,0 +1,75 @@
+Testing.exe: 0000248C: 14:39:52 []:>--------------------------------------------------------------<
+Testing.exe: 0000248C: 14:39:52 [TUniServerModule]:Server First Init.
+Testing.exe: 0000248C: 14:39:52 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 0000248C: 14:39:52 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 0000248C: 14:39:52 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 0000248C: 14:39:52 [InitWebServer]:EIdCouldNotBindSocket : Could not bind socket. Address and port are already in use. : Addr: $00669151
+Testing.exe: 000025DC: 14:39:59 []:>--------------------------------------------------------------<
+Testing.exe: 000025DC: 14:39:59 [TUniServerModule]:Server First Init.
+Testing.exe: 000025DC: 14:39:59 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 000025DC: 14:39:59 [TUniServerModule]:Cache Folder Erased. <1> Files deleted.
+Testing.exe: 000025DC: 14:39:59 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 000025DC: 14:39:59 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00002780: 14:40:15 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-ext.css
+Testing.exe: 00000C9C: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-4.2.5.1763\resources\css\ext-all.css
+Testing.exe: 00000D98: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.css
+Testing.exe: 0000058C: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme-common.css
+Testing.exe: 000000A4: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme.css
+Testing.exe: 00001A78: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-4.2.5.1763\ext-all.js
+Testing.exe: 000025B0: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unicommon-min.js
+Testing.exe: 00001EB8: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-sync-min.js
+Testing.exe: 00001B0C: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\AlwaysOnTop.js
+Testing.exe: 0000067C: 14:40:16 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\jquery-1.11.2.min.js
+Testing.exe: 00001EC4: 14:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.js
+Testing.exe: 00001D74: 14:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+Testing.exe: 000001E8: 14:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unigui-min.js
+Testing.exe: 00001CB4: 14:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Testing.exe: 00001628: 14:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.css
+Testing.exe: 000022B0: 14:40:17 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+Testing.exe: 00000C38: 14:40:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Testing.exe: 00001054: 14:40:18 []:TUniThemeProps: File not found: C:\uni\css\uni-xtheme.css
+Testing.exe: 00000E50: 14:40:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme-common.css
+Testing.exe: 00001884: 14:40:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme.css
+Testing.exe: 000026B4: 14:40:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unigui-min.js
+Testing.exe: 00001054: 14:40:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-ext.css
+Testing.exe: 000017C0: 14:40:18 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-4.2.5.1763\resources\css\ext-all.css
+Testing.exe: 0000026C: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme-common.css
+Testing.exe: 000003A8: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.css
+Testing.exe: 00002434: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme.css
+Testing.exe: 000006A4: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\ext-4.2.5.1763\ext-all.js
+Testing.exe: 00002744: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unicommon-min.js
+Testing.exe: 00001D14: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-sync-min.js
+Testing.exe: 000010FC: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\jquery-1.11.2.min.js
+Testing.exe: 000025AC: 14:40:19 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\AlwaysOnTop.js
+Testing.exe: 00001C9C: 14:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.js
+Testing.exe: 000003B8: 14:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Testing.exe: 000005F0: 14:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+Testing.exe: 00001860: 14:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unigui-min.js
+Testing.exe: 000019B8: 14:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\jquery-1.11.2.min.js
+Testing.exe: 00001CE8: 14:40:20 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.js
+Testing.exe: 000009B4: 14:40:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ClearButton\ClearButton.css
+Testing.exe: 00000DAC: 14:40:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\MaskedInput\jquery.inputmask.min.js
+Testing.exe: 00000EC0: 14:40:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\jQuery\autoNumeric\autoNumeric-1.9.35.js
+Testing.exe: 00001B70: 14:40:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme-common.css
+Testing.exe: 00002354: 14:40:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\css\uni-xtheme.css
+Testing.exe: 00002030: 14:40:21 [HandleFileRequest[127.0.0.1]]:File not found: C:\uni\ext-unigui-min.js
+Testing.exe: 000025DC: 14:40:28 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 000025DC: 14:40:29 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 000025DC: 14:40:29 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 000025DC: 14:40:29 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 000025DC: 14:40:29 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 000025DC: 14:40:29 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 000025DC: 14:40:29 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 000025DC: 14:40:29 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 000025DC: 14:40:29 []:<-------------------------------------------------------------->
+Testing.exe: 000025DC: 14:40:29 [Terminated]:Exit Code: 0
+Testing.exe: 0000248C: 14:40:51 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 0000248C: 14:40:51 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 0000248C: 14:40:51 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 0000248C: 14:40:51 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 0000248C: 14:40:51 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 0000248C: 14:40:51 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 0000248C: 14:40:51 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 0000248C: 14:40:51 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 0000248C: 14:40:51 []:<-------------------------------------------------------------->
+Testing.exe: 0000248C: 14:40:51 [Terminated]:Exit Code: 0
