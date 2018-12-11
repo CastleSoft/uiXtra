@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/01 11:13:38.000.838,=rtl.dcp</Transaction>
+    <Transaction>2017/08/01 13:41:49.000.782,=rtl.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.512,=xmlrtl.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.456,=uIndy25.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.447,=uniTools25.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.606,=vclx.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.593,=VclSmp.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.521,=inet.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.534,=vclie.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.551,=vcl.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.467,=soaprtl.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.501,=dbrtl.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.580,=vclimg.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.351,=C:\Tmp\2017-08-01-uniSweetAlert\uniSweetAlert.pas</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.438,=uniGUI25Core.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.566,=vcldb.dcp</Transaction>
+    <Transaction>2017/08/01 13:43:53.000.618,=vclactnband.dcp</Transaction>
+    <Transaction>2017/08/01 13:53:16.000.403,C:\Tmp\2017-08-01-uniSweetAlert\uniExtSweetAlert.dproj=C:\Users\castl\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2017/08/01 13:53:24.000.766,=RESTComponents.dcp</Transaction>
+    <Transaction>2017/08/02 14:41:17.000.061,=C:\Tmp\2017-08-02-uniSweetAlert V4\UniJToast.pas</Transaction>
+    <Transaction>2017/08/02 14:44:20.000.567,C:\Tmp\2017-08-02-uniSweetAlert V4\uniExtSweetAlert.dproj=C:\Tmp\2017-08-02-uniSweetAlert V4\uniExtensions.dproj</Transaction>
+    <Transaction>2017/08/04 08:39:46.000.392,=C:\Source\2017-08-04-uniSweetAlert V51\uniTyped.pas</Transaction>
+    <Transaction>2017/08/04 08:39:46.000.406,=uniGUI25.dcp</Transaction>
+    <Transaction>2018/06/02 14:43:21.000.650,C:\Source\2018-06-02-uiXtra v1.00\uiXtra.dproj=C:\Source\2018-06-02-uiXtra v1.00\uniExtensions.dproj</Transaction>
+    <Transaction>2018/06/05 15:44:12.000.911,=C:\Source\2018-06-05-uiXtra v1.03\uniEditValidate.pas</Transaction>
+    <Transaction>2018/07/30 12:17:41.000.641,=C:\Source\2018-07-30-uiXtra-v103\uniBubblyBg.pas</Transaction>
+  </Transactions>
+</BorlandProject>
