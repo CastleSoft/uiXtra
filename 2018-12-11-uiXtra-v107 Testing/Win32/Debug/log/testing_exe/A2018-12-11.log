@@ -1,0 +1,15 @@
+Testing.exe: 0000029C: 18:21:37 []:>--------------------------------------------------------------<
+Testing.exe: 0000029C: 18:21:37 [TUniServerModule]:Server First Init.
+Testing.exe: 0000029C: 18:21:38 [TUniServerModule]:Starting HTTP Server on Port: 8077...
+Testing.exe: 0000029C: 18:21:38 [TUniServerModule]:HTTP Server Started on Port: 8077
+Testing.exe: 0000029C: 18:23:14 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 0000029C: 18:23:14 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 0000029C: 18:23:14 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 0000029C: 18:23:14 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 0000029C: 18:23:14 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 0000029C: 18:23:14 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 0000029C: 18:23:14 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 0000029C: 18:23:14 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 0000029C: 18:23:14 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 0000029C: 18:23:14 []:<-------------------------------------------------------------->
+Testing.exe: 0000029C: 18:23:14 [Terminated]:Exit Code: 0

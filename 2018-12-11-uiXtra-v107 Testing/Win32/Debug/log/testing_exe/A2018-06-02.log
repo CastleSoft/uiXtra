@@ -1,0 +1,127 @@
+Testing.exe: 00000F14: 14:52:44 []:>--------------------------------------------------------------<
+Testing.exe: 00000F14: 14:52:44 [TUniServerModule]:Server First Init.
+Testing.exe: 00000F14: 14:52:44 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 00000F14: 14:52:44 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 00000F14: 14:52:44 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 00000F14: 14:52:44 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00000F14: 14:54:17 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 00000F14: 14:54:17 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 00000F14: 14:54:17 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 00000F14: 14:54:17 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 00000F14: 14:54:17 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 00000F14: 14:54:17 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 00000F14: 14:54:17 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 00000F14: 14:54:17 [TUniGUISessionManager]:Session manager thread terminated.
+Testing.exe: 00000F14: 14:54:17 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 00000F14: 14:54:18 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 00000F14: 14:54:18 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 00000F14: 14:54:18 []:<-------------------------------------------------------------->
+Testing.exe: 00000F14: 14:54:18 [Terminated]:Exit Code: 0
+Testing.exe: 00001458: 16:00:19 []:>--------------------------------------------------------------<
+Testing.exe: 00001458: 16:00:19 [TUniServerModule]:Server First Init.
+Testing.exe: 00001458: 16:00:19 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 00001458: 16:00:19 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 00001458: 16:00:19 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 00001458: 16:00:19 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00001458: 16:02:42 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 00001458: 16:02:42 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 00001458: 16:02:42 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Session manager thread terminated.
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 00001458: 16:02:42 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 00001458: 16:02:43 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 00001458: 16:02:43 []:<-------------------------------------------------------------->
+Testing.exe: 00001458: 16:02:43 [Terminated]:Exit Code: 0
+Testing.exe: 00002328: 17:29:44 []:>--------------------------------------------------------------<
+Testing.exe: 00002328: 17:29:44 [TUniServerModule]:Server First Init.
+Testing.exe: 00002328: 17:29:44 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 00002328: 17:29:44 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 00002328: 17:29:44 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 00002328: 17:29:44 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00002328: 17:30:59 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 00002328: 17:30:59 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 00002328: 17:31:00 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 00002328: 17:31:00 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 00002328: 17:31:00 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 00002328: 17:31:00 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 00002328: 17:31:00 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 00001FEC: 17:35:36 []:>--------------------------------------------------------------<
+Testing.exe: 00001FEC: 17:35:36 [TUniServerModule]:Server First Init.
+Testing.exe: 00001FEC: 17:35:36 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 00001FEC: 17:35:36 [TUniServerModule]:Cache Folder Erased. <11> Files deleted.
+Testing.exe: 00001FEC: 17:35:36 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 00001FEC: 17:35:36 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00001FEC: 17:42:32 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 00001FEC: 17:42:32 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 00001FEC: 17:42:33 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Session manager thread terminated.
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 00001FEC: 17:42:33 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 00001FEC: 17:42:33 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 00001FEC: 17:42:33 []:<-------------------------------------------------------------->
+Testing.exe: 00001FEC: 17:42:33 [Terminated]:Exit Code: 0
+Testing.exe: 00001D10: 17:43:26 []:>--------------------------------------------------------------<
+Testing.exe: 00001D10: 17:43:26 [TUniServerModule]:Server First Init.
+Testing.exe: 00001D10: 17:43:26 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 00001D10: 17:43:26 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 00001D10: 17:43:26 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 00001D10: 17:43:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00001D10: 17:44:15 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 00001D10: 17:44:15 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 00001D10: 17:44:16 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Session manager thread terminated.
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 00001D10: 17:44:16 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 00001D10: 17:44:16 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 00001D10: 17:44:16 []:<-------------------------------------------------------------->
+Testing.exe: 00001D10: 17:44:16 [Terminated]:Exit Code: 0
+Testing.exe: 000017C4: 21:59:41 []:>--------------------------------------------------------------<
+Testing.exe: 000017C4: 21:59:41 [TUniServerModule]:Server First Init.
+Testing.exe: 000017C4: 21:59:41 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 000017C4: 21:59:41 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 000017C4: 21:59:41 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 000017C4: 21:59:41 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 000017C4: 22:00:07 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 000017C4: 22:00:07 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 000017C4: 22:00:07 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Session manager thread terminated.
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 000017C4: 22:00:07 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 000017C4: 22:00:07 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 000017C4: 22:00:07 []:<-------------------------------------------------------------->
+Testing.exe: 000017C4: 22:00:07 [Terminated]:Exit Code: 0
+Testing.exe: 00001744: 22:00:19 []:>--------------------------------------------------------------<
+Testing.exe: 00001744: 22:00:19 [TUniServerModule]:Server First Init.
+Testing.exe: 00001744: 22:00:19 [TUniServerModule]:Erasing Cache Folder...
+Testing.exe: 00001744: 22:00:19 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+Testing.exe: 00001744: 22:00:19 [TUniServerModule]:Starting HTTP Server...
+Testing.exe: 00001744: 22:00:19 [TUniServerModule]:HTTP Server Started. Port: 8077
+Testing.exe: 00001744: 22:05:55 [TUniServerModule]:Shutting Down Server.
+Testing.exe: 00001744: 22:05:55 [TUniServerModule]:Stopping HTTP Server.
+Testing.exe: 00001744: 22:05:55 [TUniServerModule]:HTTP Server Stopped.
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Terminating Session manager.
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Stopping Cache Eraser...
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Cache Eraser Stopped.
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Waiting for session manager thread...
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Session manager thread terminated.
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Destroying Worker Threads.
+Testing.exe: 00001744: 22:05:55 [TUniGUISessionManager]:Session manager terminated.
+Testing.exe: 00001744: 22:05:55 [TUniServerModule]:Server Shutdown Completed.
+Testing.exe: 00001744: 22:05:55 []:<-------------------------------------------------------------->
+Testing.exe: 00001744: 22:05:55 [Terminated]:Exit Code: 0

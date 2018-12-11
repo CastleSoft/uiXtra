@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/02 20:54:26.000.270,=c:\tmp\2017-08-02-Testing\MainModule.pas</Transaction>
+    <Transaction>2017/08/02 20:54:26.000.218,=c:\tmp\2017-08-02-Testing\ServerModule.pas</Transaction>
+    <Transaction>2017/08/02 20:54:27.000.489,=c:\tmp\2017-08-02-Testing\Main.pas</Transaction>
+  </Transactions>
+</BorlandProject>
